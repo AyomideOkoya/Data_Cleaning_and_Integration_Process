@@ -1,0 +1,43 @@
+# Automobile Sales Analysis Dashboard
+
+## Data Cleaning Process in Tableau
+
+1. Established a connection to the relevant data sources (e.g., CSV files, databases) within Tableau.
+
+2. Imported the raw data into Tableau for initial examination.
+
+3. Conducted an initial review using the Data Source tab to identify any obvious issues such as missing values, duplicates, or outliers.
+
+4. Identified columns with missing data and addressed them by either replacing with appropriate placeholders or using calculated fields to handle the missing values.
+
+5. **Removing Duplicates**:
+   - Created a calculated field to identify duplicate records and filtered out these duplicates to ensure data accuracy.
+
+6. **Data Type Correction**:
+   - Verified and corrected data types for each column to ensure consistency, including dates, numerical values, and strings.
+
+7. **Standardizing Data Formats**:
+   - Ensured consistent data formats across the dataset, such as standardizing date formats using Tableau's built-in functions and calculated fields.
+
+8. **Creating Calculated Fields**:
+   - Developed new calculated fields for derived metrics required for analysis, such as profit margin and average unit price.
+
+9. **Data Blending**:
+   - If multiple data sources were used, employed Tableau's data blending feature to seamlessly combine data from different sources.
+
+10. **Filtering Out Unnecessary Data**:
+    - Applied filters to exclude irrelevant or unwanted data from the analysis, ensuring a streamlined and relevant dataset.
+
+11. **Data Aggregation**:
+    - Aggregated data to the required level of detail using Tableau’s aggregation functions (e.g., SUM, AVG) to facilitate accurate analysis.
+
+12. **Data Validation**:
+    - Validated the cleaned data by creating preliminary visualizations to check for consistency and accuracy.
+
+13. **Final Review**:
+    - Conducted a final review of the cleaned data to ensure all issues had been addressed and that the data was ready for analysis.
+
+---
+
+This structured approach to data cleaning ensures that your dataset is accurate, consistent, and prepared for insightful analysis. Incorporating these steps into your data analysis portfolio demonstrates your proficiency in using Tableau for data cleaning and highlights your meticulous approach to data preparation.
+
