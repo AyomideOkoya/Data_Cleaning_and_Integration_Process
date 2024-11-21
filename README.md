@@ -3,17 +3,13 @@
 ## Data Cleaning and Integration Process
 
 ### Data Cleaning in Excel
-1. **Open CSV Files**: Open customer, orders, and cookie type CSV files in Excel.
-2. **Inspect Data**: Check for misaligned columns, extra spaces, and unexpected characters.
-3. **Remove Duplicates**: Use Excel’s `Remove Duplicates` feature to eliminate duplicate entries.
-4. **Handle Missing Values**: 
-   - Use `Filter` to identify empty cells.
-   - Fill missing values with placeholders where appropriate.
-5. **Standardize Data Formats**:
-   - Convert dates to a consistent format.
-   - Standardize text to uppercase or lowercase as needed.
-6. **Remove Irrelevant Data**: Delete non-essential columns or rows.
-7. **Fix Encoding Issues**: Use `Find and Replace` to correct special characters and encoding issues.
+1. Opened customer, orders, and cookie type CSV files in Excel.
+2. Checked for misaligned columns, extra spaces, and unexpected characters.
+3. Used Excel’s `Remove Duplicates` feature to eliminate duplicate entries.
+4. Identified empty cells and filled missing values with placeholders where appropriate.
+5. Converted dates to a consistent format and standardized text to proper case.
+6. Deleted non-essential columns or rows.
+7. Used Find and Replace to correct special characters and encoding issues.
 8. **Save Cleaned Data**: Save the cleaned datasets as new CSV files.
 
 ### Data Integration Using Power BI
