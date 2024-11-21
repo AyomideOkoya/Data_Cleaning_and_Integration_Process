@@ -23,5 +23,5 @@
 6. **Publish and Share**: Publish the dashboard to the Power BI service and share with stakeholders.
 
  ### COOKIE SALES DASHBOARD
-![Sales Analysis(https://github.com/AyomideOkoya/Data_Cleaning_and_Interation_Process/blob/f0792db9ad32d8aa598e5477afbb4746ad156d29/cookies%20sales%20dashboard.png).
+	![Sales Analysis](image.jpg)
 
