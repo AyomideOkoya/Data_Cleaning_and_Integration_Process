@@ -20,7 +20,7 @@
    - Linking orders table to cookie type table via CookieType.
 4. Created visualizations like bar charts, column chart, table, and line charts to represent cookie sales data.
 5. Arranged visuals on the canvas, and incorporated slicers and filters for dynamic data exploration.
-6. **Publish and Share**: Publish the dashboard to the Power BI service and share with stakeholders.
+6. Published the dashboard to the Power BI service and share with stakeholders.
 
  ### COOKIE SALES DASHBOARD ANALYSIS
 ![Sales Analysis](https://github.com/AyomideOkoya/Data_Cleaning_and_Interation_Process/blob/42b21ffe82ea1b0b6cd32a29230c98ec1f57c75f/cookies%20sales%20dashboard.png)
