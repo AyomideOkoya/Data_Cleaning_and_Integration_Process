@@ -2,7 +2,7 @@
 
 ## Data Cleaning Process in Tableau
 
-1. Established a connection to the relevant data sources (e.g., CSV files, databases) within Tableau.
+1. Established a connection to CSV files within Tableau.
 
 2. Imported the raw data into Tableau for initial examination.
 
@@ -10,14 +10,11 @@
 
 4. Identified columns with missing data and addressed them by either replacing with appropriate placeholders or using calculated fields to handle the missing values.
 
-5. **Removing Duplicates**:
-   - Created a calculated field to identify duplicate records and filtered out these duplicates to ensure data accuracy.
+5. Created a calculated field to identify duplicate records and filtered out these duplicates to ensure data accuracy.
 
-6. **Data Type Correction**:
-   - Verified and corrected data types for each column to ensure consistency, including dates, numerical values, and strings.
+6. Verified and corrected data types for each column to ensure consistency, including dates, numerical values, and strings.
 
-7. **Standardizing Data Formats**:
-   - Ensured consistent data formats across the dataset, such as standardizing date formats using Tableau's built-in functions and calculated fields.
+7. Ensured consistent data formats across the dataset, such as standardizing date formats using Tableau's built-in functions and calculated fields.
 
 8. **Creating Calculated Fields**:
    - Developed new calculated fields for derived metrics required for analysis, such as profit margin and average unit price.
