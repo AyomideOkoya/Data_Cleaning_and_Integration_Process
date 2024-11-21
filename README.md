@@ -26,7 +26,7 @@
 ![Sales Analysis](https://github.com/AyomideOkoya/Data_Cleaning_and_Interation_Process/blob/42b21ffe82ea1b0b6cd32a29230c98ec1f57c75f/cookies%20sales%20dashboard.png)
  
 
-#### Overview:
+### Overview:
 This dashboard provides a comprehensive view of cookie sales performance, with an extensive view of metrics like revenue, profit, and customer data. The primary KPIs include Total Sales, Total Profit, Number of Orders, Units Sold, and Profit Margin. The dashboard is designed to offer actionable insights through various visualizations and filters.
 
 
