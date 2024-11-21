@@ -58,12 +58,12 @@ Compares revenue and profit across different states, revealing geographic sales 
 ### Insights and Recommendations:
 
 **Insight 1: Profit Trend Over Time**
-**Observation:** The line chart shows significant profit peaks in September and November.
-  **Recommendation:** Increase marketing efforts and promotions in these months to leverage higher sales volumes. Consider launching seasonal cookie varieties to attract more customers.
+**Observation:** The line chart shows significant profit peaks in September and November.        
+**Recommendation:** Increase marketing efforts and promotions in these months to leverage higher sales volumes. Consider launching seasonal cookie varieties to attract more customers.
 
 **Insight 2: Product Profit Margins**
-**Observation:** Snickerdoodle has the highest profit margin (62.5%), while Fortune Cookie has the lowest (50%).
-  **Recommendation:** Focus on promoting high-margin products like Snickerdoodle. Evaluate production costs for lower-margin products to find ways to improve profitability.
+**Observation:** Snickerdoodle has the highest profit margin (62.5%), while Fortune Cookie has the lowest (50%).     
+**Recommendation:** Focus on promoting high-margin products like Snickerdoodle. Evaluate production costs for lower-margin products to find ways to improve profitability.
 
 **Insight 3: Top Customers**
 **Observation:** Customer 3 contributes the highest revenue ($1.43M) and has the highest orders (206).
