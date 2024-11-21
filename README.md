@@ -22,6 +22,5 @@
 5. Arranged visuals on the canvas, and incorporated slicers and filters for dynamic data exploration.
 6. **Publish and Share**: Publish the dashboard to the Power BI service and share with stakeholders.
 
-7. ### COOKIE SALES DASHBOARD
-8. 
-9. ![Sales Analysis](image.jpg)
+ ### COOKIE SALES DASHBOARD
+![Sales Analysis](image.jpg)
