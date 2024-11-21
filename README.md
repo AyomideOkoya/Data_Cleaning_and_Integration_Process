@@ -17,7 +17,9 @@
 2. Used Power Query Editor for additional data cleaning and transformation.
 3. Defined relationships between tables by:
    - Linking customer table to orders table via CustomerID.
-   - Linking orders table to cookie type table via CookieTypeID.
+   - Linking orders table to cookie type table via CookieType.
 4. Created visualizations like bar charts, column chart, table, and line charts to represent cookie sales data.
 5. Arranged visuals on the canvas, and incorporated slicers and filters for dynamic data exploration.
 6. **Publish and Share**: Publish the dashboard to the Power BI service and share with stakeholders.
+
+7. ![Cookie Sales Dashboard](image.jpg)
